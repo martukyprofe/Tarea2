@@ -1,0 +1,16 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: azure;
+}
+h1{
+    font-weight: bold;
+}
+p{
+    color: black;
+    font-style: italic;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 30%;
+}
